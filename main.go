@@ -12,7 +12,8 @@ import (
 )
 
 const (
-	version = "0.1.0"
+	Name    = "aws-sns-slack"
+	Version = "0.1.0"
 )
 
 var (
